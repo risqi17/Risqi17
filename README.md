@@ -74,6 +74,8 @@
   <li><a href="https://medium.com/@ahmadreys/how-to-add-a-warning-when-uploading-a-file-larger-than-the-limit-size-in-javascript-and-laravel-b7bb00ed17e5"><b> How to Add a Warning When Uploading a File Larger Than the Limit Size in JavaScript and Laravel</b></a><br/><i>Uploading a File Larger Than the Limit Size in JavaScript and Laravel</i></li>
   <li><a href="https://medium.com/@ahmadreys/how-to-disable-weekend-saturday-and-sunday-in-flatpickr-a7067b5a5def"><b> How to Disable Weekend Saturday and Sunday in Flatpickr</b></a><br/><i>Disable Weekend Saturday and Sunday.</i></li>
   <li><a href="https://medium.com/@ahmadreys/how-to-change-sequence-last-value-in-database-postgresql-d3c5bd0d6e36"><b>How To Change Sequence Last Value In Database PostgreSQL</b></a><br/><i>Changing the last value in PostgreSQL</i></li>
+  <li><a href="https://medium.com/@ahmadreys/how-to-create-clickable-highchart-in-laravel-html-21a43cba36fa"><b>How To Create Clickable HighChart In Laravel HTML</b></a><br/><i>Clickable highchart to show more information</i></li>
+  <li><a href="https://medium.com/@ahmadreys/how-to-add-toploader-in-next-js-with-typescript-13e2f833eb19"><b>How to Add Toploader in Next.js with TypeScript</b></a><br/><i>Loader on top of the page</i></li>
   
 </ul>
 <h3>Where to find me</h3>
